@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="scoped app table" max_length="40" name="x_snc_test_app78_scoped_app_table" type="collection"/>
+</database>
