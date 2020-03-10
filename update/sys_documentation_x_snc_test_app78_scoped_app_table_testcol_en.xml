@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="scoped app table_1" language="en" table="x_snc_test_app78_scoped_app_table">
+    <sys_documentation element="testcol" label="Testcol" language="en" table="x_snc_test_app78_scoped_app_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>testcol</element>
             <help/>
             <hint/>
-            <label>scoped app table_1</label>
+            <label>Testcol</label>
             <language>en</language>
             <name>x_snc_test_app78_scoped_app_table</name>
-            <plural>scoped app table_1s</plural>
+            <plural>Testcols</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>mahima.jayaprakash@snc</sys_created_by>
-            <sys_created_on>2020-03-10 14:49:10</sys_created_on>
-            <sys_id>aa8daed0db2fc050c9410be4e296191c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>scoped app table_1</sys_name>
+            <sys_created_on>2020-03-10 17:53:03</sys_created_on>
+            <sys_id>271d26d0db2fc050c9410be4e29619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testcol</sys_name>
             <sys_package display_value="Test_App78" source="x_snc_test_app78">107182d8db6bc050c9410be4e2961927</sys_package>
             <sys_policy/>
             <sys_scope display_value="Test_App78">107182d8db6bc050c9410be4e2961927</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_test_app78_scoped_app_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_test_app78_scoped_app_table_testcol_en</sys_update_name>
             <sys_updated_by>mahima.jayaprakash@snc</sys_updated_by>
-            <sys_updated_on>2020-03-10 18:36:32</sys_updated_on>
+            <sys_updated_on>2020-03-10 17:53:03</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
