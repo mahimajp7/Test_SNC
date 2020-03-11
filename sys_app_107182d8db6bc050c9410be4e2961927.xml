@@ -18,21 +18,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Training activity.</short_description>
         <source>x_snc_test_app78</source>
-        <store_correlation_id>REPOAPP0000002244</store_correlation_id>
+        <store_correlation_id>REPOAPP0000002248</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>mahima.jayaprakash@snc</sys_created_by>
         <sys_created_on>2020-03-10 14:42:14</sys_created_on>
         <sys_id>107182d8db6bc050c9410be4e2961927</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_updated_by>mahima.jayaprakash@snc</sys_updated_by>
-        <sys_updated_on>2020-03-10 18:37:58</sys_updated_on>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2020-03-11 15:01:48</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </sys_app>
 </record_update>
